@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5dd5aef9a101443984851959cd0c8620/artifacts
+end_time: 1689079687029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dd5aef9a101443984851959cd0c8620
+run_name: skillful-newt-721
+run_uuid: 5dd5aef9a101443984851959cd0c8620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689079686651
+status: 4
+tags: []
+user_id: mussie

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/c2a122bd7f824b70a14cf64621cbaa12/artifacts
+end_time: 1689080613459
+entry_point_name: ''
+experiment_id: '595171670298539005'
+lifecycle_stage: active
+run_id: c2a122bd7f824b70a14cf64621cbaa12
+run_name: silent-elk-973
+run_uuid: c2a122bd7f824b70a14cf64621cbaa12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689080604260
+status: 3
+tags: []
+user_id: mussie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1a139c5e1a3d403ba722f2d469a280cc/artifacts
+end_time: 1689079740680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a139c5e1a3d403ba722f2d469a280cc
+run_name: debonair-shrike-568
+run_uuid: 1a139c5e1a3d403ba722f2d469a280cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689079740392
+status: 4
+tags: []
+user_id: mussie
