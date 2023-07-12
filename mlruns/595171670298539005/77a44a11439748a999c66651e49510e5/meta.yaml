@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/77a44a11439748a999c66651e49510e5/artifacts
+deleted_time: 1689150938172
 end_time: 1689080480938
 entry_point_name: ''
 experiment_id: '595171670298539005'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 77a44a11439748a999c66651e49510e5
 run_name: upbeat-shark-360
 run_uuid: 77a44a11439748a999c66651e49510e5

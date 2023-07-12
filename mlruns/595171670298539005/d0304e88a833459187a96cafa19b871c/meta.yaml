@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/d0304e88a833459187a96cafa19b871c/artifacts
+deleted_time: 1689150927846
 end_time: 1689080486251
 entry_point_name: ''
 experiment_id: '595171670298539005'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d0304e88a833459187a96cafa19b871c
 run_name: second
 run_uuid: d0304e88a833459187a96cafa19b871c

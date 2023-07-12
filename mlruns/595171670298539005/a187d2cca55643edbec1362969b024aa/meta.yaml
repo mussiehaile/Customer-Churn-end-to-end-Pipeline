@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/a187d2cca55643edbec1362969b024aa/artifacts
+deleted_time: 1689153641543
+end_time: 1689152994992
+entry_point_name: ''
+experiment_id: '595171670298539005'
+lifecycle_stage: deleted
+run_id: a187d2cca55643edbec1362969b024aa
+run_name: LogisticRegression
+run_uuid: a187d2cca55643edbec1362969b024aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689152994745
+status: 4
+tags: []
+user_id: mussie

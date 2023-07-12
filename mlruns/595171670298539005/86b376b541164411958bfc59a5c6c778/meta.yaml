@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/86b376b541164411958bfc59a5c6c778/artifacts
+end_time: 1689162051738
+entry_point_name: ''
+experiment_id: '595171670298539005'
+lifecycle_stage: active
+run_id: 86b376b541164411958bfc59a5c6c778
+run_name: RandomForestClassifier
+run_uuid: 86b376b541164411958bfc59a5c6c778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689162046987
+status: 3
+tags: []
+user_id: mussie

@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/e90d60a70fd447218031d2870a2253f3/artifacts
+deleted_time: 1689150938181
 end_time: 1689080480938
 entry_point_name: ''
 experiment_id: '595171670298539005'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e90d60a70fd447218031d2870a2253f3
 run_name: overjoyed-cod-950
 run_uuid: e90d60a70fd447218031d2870a2253f3

@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/b8366e07b16c45a4b385bff1fcfeb3ab/artifacts
+deleted_time: 1689150938169
 end_time: 1689080613459
 entry_point_name: ''
 experiment_id: '595171670298539005'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b8366e07b16c45a4b385bff1fcfeb3ab
 run_name: defiant-stoat-292
 run_uuid: b8366e07b16c45a4b385bff1fcfeb3ab

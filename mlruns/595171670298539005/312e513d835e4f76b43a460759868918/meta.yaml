@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/312e513d835e4f76b43a460759868918/artifacts
+deleted_time: 1689150938166
 end_time: 1689080480938
 entry_point_name: ''
 experiment_id: '595171670298539005'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 312e513d835e4f76b43a460759868918
 run_name: unequaled-shrimp-639
 run_uuid: 312e513d835e4f76b43a460759868918

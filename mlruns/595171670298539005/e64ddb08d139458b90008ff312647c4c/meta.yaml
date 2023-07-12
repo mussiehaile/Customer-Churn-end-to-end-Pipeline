@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/e64ddb08d139458b90008ff312647c4c/artifacts
+deleted_time: 1689153641532
+end_time: 1689152779978
+entry_point_name: ''
+experiment_id: '595171670298539005'
+lifecycle_stage: deleted
+run_id: e64ddb08d139458b90008ff312647c4c
+run_name: DecisionTreeClassifier
+run_uuid: e64ddb08d139458b90008ff312647c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689152779662
+status: 4
+tags: []
+user_id: mussie

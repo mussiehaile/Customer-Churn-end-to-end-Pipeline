@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/mussie/Music/final%20pro/mlruns/595171670298539005/c2a122bd7f824b70a14cf64621cbaa12/artifacts
+deleted_time: 1689150938179
 end_time: 1689080613459
 entry_point_name: ''
 experiment_id: '595171670298539005'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c2a122bd7f824b70a14cf64621cbaa12
 run_name: silent-elk-973
 run_uuid: c2a122bd7f824b70a14cf64621cbaa12
